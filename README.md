@@ -166,6 +166,8 @@ Pipeline([
 ---
 
 ## 📊 Final Model Performance
+<img width="1010" height="846" alt="image" src="https://github.com/user-attachments/assets/fccb7d8c-ca7b-4d0e-a20e-50c8bff3beda" />
+
 
 | Metric   | Score |
 | -------- | ----: |
