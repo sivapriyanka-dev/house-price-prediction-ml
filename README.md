@@ -297,3 +297,11 @@ Possible enhancements:
 This project demonstrates an end-to-end machine learning regression workflow, from data preparation to model training, evaluation, visualization, and model persistence.
 
 Random Forest significantly outperformed Linear Regression, improving prediction quality and explaining over 80% of the variance in housing prices.
+
+## 👩‍💻 Author
+
+**Siva Priyanka**
+
+- GitHub: https://github.com/sivapriyanka-dev
+
+Passionate about Machine Learning, NLP, and building real-world AI projects 🚀
